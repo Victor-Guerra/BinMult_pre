@@ -11,8 +11,20 @@ namespace proyectoTest
     {
         static void Main(string[] args)
         {
-            Control calc = new Control();
-            calc.Calcular();
+            Control calc;
+            bool on = true;
+            while (on)
+            {
+                calc = new Control();
+                calc.Calcular();
+
+                Console.WriteLine("Continuar? y/n");
+                char c = Console.ReadKey().KeyChar;
+                if (c == 'y')
+                    continue;
+                else
+                    break;
+            }
         }
     }
 }

@@ -31,8 +31,6 @@ namespace proyectoTest.Clases
                 Console.Write('\n');
                 foreach (int i in aq)
                 {
-                    if (i == aq[aq.Length / 2])
-                        Console.Write("| ");
                     Console.Write("{0} ", i);
                 }
                 Console.Write("| {0} | ", qm1);
@@ -51,9 +49,7 @@ namespace proyectoTest.Clases
             {
                 Console.Write('\n');
                 foreach (int i in aq)
-                {
-                    if (i == aq[aq.Length / 2])
-                        Console.Write("| "); 
+                { 
                     Console.Write("{0} ", i);
                 }
                 Console.Write("| {0} | ", qm1);

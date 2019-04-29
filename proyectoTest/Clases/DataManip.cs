@@ -129,11 +129,11 @@ namespace proyectoTest.Clases
 
             //for (int i = aq.Length; i < a.Length; i++)
             int cont = 0;
-            int signo = aq[0];
+            
             while (a.Length - aq.Length > cont)
             { 
                 
-                a[cont++] = signo;
+                a[cont++] = 0;
             }
             int i = 0;
             while(cont < a.Length)
@@ -143,10 +143,10 @@ namespace proyectoTest.Clases
 
             cont = 0;
             i = 0;
-            signo = mq[0];
+            
             while (m.Length - mq.Length > cont)
             {
-                m[cont++] = signo;
+                m[cont++] = 0;
             }
             while ( cont < m.Length)
             {
