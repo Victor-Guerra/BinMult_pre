@@ -1,0 +1,10 @@
+C:\Users\mtorr\source\repos\ProyectoOrganizacion\bin\Debug\ProyectoOrganizacion.exe.config
+C:\Users\mtorr\source\repos\ProyectoOrganizacion\bin\Debug\ProyectoOrganizacion.exe
+C:\Users\mtorr\source\repos\ProyectoOrganizacion\bin\Debug\ProyectoOrganizacion.pdb
+C:\Users\mtorr\source\repos\ProyectoOrganizacion\obj\Debug\ProyectoOrganizacion.csprojAssemblyReference.cache
+C:\Users\mtorr\source\repos\ProyectoOrganizacion\obj\Debug\ProyectoOrganizacion.Form1.resources
+C:\Users\mtorr\source\repos\ProyectoOrganizacion\obj\Debug\ProyectoOrganizacion.Properties.Resources.resources
+C:\Users\mtorr\source\repos\ProyectoOrganizacion\obj\Debug\ProyectoOrganizacion.csproj.GenerateResource.cache
+C:\Users\mtorr\source\repos\ProyectoOrganizacion\obj\Debug\ProyectoOrganizacion.csproj.CoreCompileInputs.cache
+C:\Users\mtorr\source\repos\ProyectoOrganizacion\obj\Debug\ProyectoOrganizacion.exe
+C:\Users\mtorr\source\repos\ProyectoOrganizacion\obj\Debug\ProyectoOrganizacion.pdb
